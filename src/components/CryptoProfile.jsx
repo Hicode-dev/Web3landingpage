@@ -5,8 +5,8 @@ const CryptoProfile = () => {
   return (
     <div className='pt-24'>
     <div className="flex justify-center items-center flex-col text-white ">
-    <h2 className='text-3xl font-bold'>Build your crypto portfolio</h2>
-      <p className='font-lg pt-5'>Lorem ipsum dolor sit amet, consectetur adipiscing <br /> elit. Feugiat nulla suspendisse tortor aene.</p>
+    <h2 className='text-[2.5rem] font-bold'>Build your crypto portfolio</h2>
+      <p className='font-lg pt-5 text-center'>Lorem ipsum dolor sit amet, consectetur adipiscing <br /> elit. Feugiat nulla suspendisse tortor aene.</p>
     </div>
     </div>
   );
