@@ -3,6 +3,7 @@
 import './App.css'
 import Body from './components/Body1'
 import Box from './components/Box'
+import Box2 from './components/Box2.'
 import Companies from './components/Companies'
 import CryptoProfile from './components/CryptoProfile'
 import Navbar from './components/Navbar'
@@ -17,6 +18,7 @@ function App() {
 <Companies />
 <CryptoProfile />
 <Box />
+<Box2 />
 
 </div>
    </>
