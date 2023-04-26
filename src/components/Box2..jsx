@@ -40,7 +40,7 @@ const Box2 = () => {
                 </div>
             </div>
          <div>
-               <div className="grid md:grid-cols-2 grid-cols-1 md:mt-20 pt-14 px-20 place-items-center">
+               <div className="grid md:grid-cols-2 grid-cols-1 md:mt-20 pt-14 md:px-20 place-items-center">
            
 
              

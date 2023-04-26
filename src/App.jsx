@@ -7,6 +7,7 @@ import Box2 from './components/Box2.'
 import Companies from './components/Companies'
 import CryptoProfile from './components/CryptoProfile'
 import Navbar from './components/Navbar'
+import Newsletter from './components/Newsletter'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
 <CryptoProfile />
 <Box />
 <Box2 />
+<Newsletter />
 
 </div>
    </>
