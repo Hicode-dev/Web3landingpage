@@ -2,7 +2,7 @@
 import React from 'react'
 import {TbArrowsRightLeft,TbWallet,TbChartBar} from 'react-icons/tb'
 import {BsArrowRepeat} from 'react-icons/bs'
-import phone1 from '../../public/iPhones (1).png'
+import phone1 from '../../dist/iPhones (1).png'
 
 const Box = () => {
     return (

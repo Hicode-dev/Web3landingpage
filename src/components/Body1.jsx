@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import coin1 from '../../public/coin-1.png'
-import coin2 from '../../public/coin-2.png'
+import coin1 from '../../dist/coin-1.png'
+import coin2 from '../../dist/coin-2.png'
 const Body = () => {
     return (
         <main className=' py-16 px-4'>
