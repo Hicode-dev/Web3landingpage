@@ -7,7 +7,7 @@ import phone3 from '../../public/iPhones.png'
 const Newsletter = () => {
   return (
     <div>
- <div className="bg-[#0328EE]  mt-32 h-fit    text-white py-10 md:px-12 px-6 grid md:grid-cols-2 place-items-center place-content-center ">
+ <div className="bg-[#0328EE]  mt-32    text-white py-10 md:px-12  grid md:grid-cols-2 place-items-center place-content-center ">
  <div >
 <h2 className='text-[2rem] font-bold pb-3 uppercase'>Explore endless possibilities with FinanceFlow</h2>
 <p className='text-[16px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Feugiat nulla suspendisse tortor aene.</p>
