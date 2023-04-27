@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-import {TbArrowsRightLeft,TbWallet,TbChartBar} from 'react-icons/tb'
+// import {TbArrowsRightLeft,TbWallet,TbChartBar} from 'react-icons/tb'
 import {BsArrowRepeat} from 'react-icons/bs'
 import phone1 from '../../public/iPhones (1).png'
 
