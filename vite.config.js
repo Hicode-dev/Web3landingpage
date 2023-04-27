@@ -6,13 +6,9 @@ export default defineConfig({
   plugins: [react()],
     build: {
     rollupOptions: {
-      external: ['react', 'react-dom', 'react-icons'] // Add 'react-icons' to the external array
+      external: ['react','react-dom','react-icons'] // Add 'react-icons' to the external array
     },
-    sourcemap:true,
-outDir:'build'
+
   },
-  server:{
-port:3000,
-  }
-  
+
 })
