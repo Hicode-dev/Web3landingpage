@@ -1,0 +1,24 @@
+.coin1{
+animation: app-logo-spin infinite linear 20s;
+pointer-events: none;
+}
+.coin2{
+animation: app-logo infinite linear 20s;
+pointer-events: none;
+/* z-index: ; */
+}
+
+@keyframes  app-logo-spin{
+    from{
+        transform:rotate(0deg)
+    }to{
+        transform: rotate(360deg);
+    }
+}
+@keyframes  app-logo{
+    from{
+        transform:rotate(0deg)
+    }to{
+        transform: rotate(-360deg);
+    }
+}

@@ -21,8 +21,8 @@ const Body = () => {
 
                     <div className='relative'> 
                    <div className='flex justify-center md:mt-0 mt-14'>
-                   <img src={coin1} alt="" className='md:w-[30rem] w-[18rem]  absolute top-0 left-0' />
-                   <img src={coin2} alt="" className='md:w-[18rem] w-[18rem]'/>
+                   <img src={coin1} alt="" className='md:w-[30rem] w-[18rem]  absolute top-0 left-0 coin1' />
+                   <img src={coin2} alt="" className='md:w-[18rem] w-[18rem] coin2'/>
                    </div>
                     </div>
                 </div>

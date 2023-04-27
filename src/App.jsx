@@ -23,7 +23,7 @@ function App() {
   });
   return (
    <>
-<div className="bg-[#010725]">
+<div className="bg-[#010725] overflow-hidden">
 <Navbar />
 <Body />
 <Companies />
