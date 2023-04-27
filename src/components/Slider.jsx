@@ -45,7 +45,7 @@ const Slider = () => {
             <div className='py-20 px-10 gap-3  '>
                 <div className='text-white flex justify-between items-center  '>
                     <h2 className='text-[1.7rem] font-bold pb-3 uppercase'>What our users say?</h2>
-                    <button className='bg-blue-500  w-fit rounded-full text-white px-10 py-3  font-bold'>
+                    <button className='bg-blue-500 md:flex hidden  w-fit rounded-full text-white px-10 py-3  font-bold'>
                         Download
                     </button>
 

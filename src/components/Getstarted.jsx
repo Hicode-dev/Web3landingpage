@@ -9,7 +9,7 @@ const Getstarted = () => {
 
 
 
-            <div className=''>
+            <div className=' px-7'>
                 <h4 className='text-[2rem] font-bold pb-3 uppercase   text-white'>Get started today</h4>
                 <p className='text-[16px] text-white'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Feugiat nulla suspendisse tortor aene.</p>
                 <div>

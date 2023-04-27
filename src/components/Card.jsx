@@ -3,19 +3,21 @@ import React from 'react';
 import phone3 from '../../public/div (1).png'
 import phone4 from '../../public/60e4a1e7380756935be7fc46_image-blog-6-crypto-template-p-800.jpeg.png'
 
+
 const Card = () => {
+  
     return (
 
      <div className='pt-20 px-9'>
-           <div className='text-white py-10 flex justify-between items-center  '>
-                    <h2 className='text-[1.7rem] font-bold pb-3 uppercase'>Browse our latest news</h2>
-                    <button className=' w-fit rounded-full text-white px-10 py-3 text-[0.9rem] f'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing <br /> elit. Sit non neque orci amet, amet .
+           <div className='text-white py-10 block justify-between items-center md:flex '>
+                    <h2 className='md:text-[1.7rem] text-[1.5rem] font-bold pb-3 uppercase'>Browse our latest news</h2>
+                    <button className=' w-fit rounded-full text-white md:px-10 py-3 text-[0.9rem] f'>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Sit non neque orci amet, amet .
                     </button>
 
                 </div>
-           <div className='grid md:grid-cols-2  lg:grid-cols-3'>
-            <div className="max-w-sm bg-[#010D50] my-6  rounded-lg shadow">
+           <div className='grid md:grid-cols-2  lg:grid-cols-3' >
+            <div className="max-w-sm bg-[#010D50] my-6  rounded-lg shadow"  data-aos="zoom-in-left">
                 <a href="#">
                     <img className="rounded-t-lg" src={phone4} alt="" />
                 </a>
@@ -33,7 +35,7 @@ const Card = () => {
                     </div>
                 </div>
             </div>
-            <div className="max-w-sm bg-[#010D50]  my-6  rounded-lg shadow">
+            <div className="max-w-sm bg-[#010D50]  my-6  rounded-lg shadow" data-aos="zoom-out-left"> 
                 <a href="#">
                     <img className="rounded-t-lg" src={phone4} alt="" />
                 </a>
@@ -51,7 +53,7 @@ const Card = () => {
                     </div>
                 </div>
             </div>
-            <div className="max-w-sm bg-[#010D50]  my-6 rounded-lg shadow">
+            <div className="max-w-sm bg-[#010D50]  my-6 rounded-lg shadow" data-aos="zoom-in-left">
                 <a href="#">
                     <img className="rounded-t-lg" src={phone4} alt="" />
                 </a>

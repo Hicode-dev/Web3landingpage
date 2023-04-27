@@ -11,7 +11,7 @@ const Body = () => {
                 <div className='block md:flex justify-around items-center'>
 
                     <div>
-                     <div className=''>
+                     <div className='' data-aos="fade-right">
                      <p className='text-2xl lg:text-[3rem] md:text-3xl font-bold pb-3 uppercase mx-auto text-white'>Buy, trade, and hold </p>
                         <p className='text-2xl lg:text-[3rem]  md:text-3xl font-bold pb-3 uppercase mx-auto text-white'>350+ cryptocurrencies</p>
                         <p className='text-white mt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Feugiat <br /> nulla suspendisse tortor aenean dis placerat.</p>

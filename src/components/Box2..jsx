@@ -15,8 +15,8 @@ const Box2 = () => {
                     <img src={phone2} className='lg:flex hidden'  alt="" />
                     <img src={phone3} alt="" />
                 </div>
-                <div>
-                    <h4 className='text-[2rem] font-bold pb-3 uppercase  text-white'>Earn daily rewards on <br />  your idle tokens</h4>
+                <div data-aos="fade-left">
+                    <h4 className='text-[2rem] font-bold pb-3 mt-4 md:mt-0 uppercase  text-white'>Earn daily rewards on <br />  your idle tokens</h4>
                     <div>
                         <div className='flex items-center gap-6 text-white font-bold'>
                             <button className='bg-blue-700 px-4 py-3 my-5 shadow-lg rounded-lg '>
@@ -44,7 +44,7 @@ const Box2 = () => {
            
 
              
-                <div className=''>
+                <div className='' data-aos="fade-up-left"> 
                     <h4 className='text-[2rem] font-bold pb-3 uppercase   text-white'>Earn daily rewards on <br />  your idle tokens</h4>
                     <div>
                         <div className='flex items-center gap-6 text-white font-bold'>
@@ -68,7 +68,7 @@ const Box2 = () => {
                        </div>
                 </div>
 
-                <div className=' '>
+                <div className=' ' data-aos="zoom-in">
                     <img src={phone4} className='md:flex ' width='400ppx'  alt="" />
                 </div>
             </div>

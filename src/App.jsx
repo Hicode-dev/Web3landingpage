@@ -8,13 +8,19 @@ import Box2 from './components/Box2.'
 import Card from './components/Card'
 import Companies from './components/Companies'
 import CryptoProfile from './components/CryptoProfile'
+import Footer from './components/Footer'
+import Fot from './components/Fot'
 import Getstarted from './components/Getstarted'
 import Navbar from './components/Navbar'
 import Newsletter from './components/Newsletter'
 import Slider from './components/Slider'
-
+import AOS from 'aos'
+import 'aos/dist/aos.css';
 function App() {
-
+  AOS.init({
+    duration: 3000, // values from 0 to 3000, with step 50ms
+    // easing: 'ease',
+  });
   return (
    <>
 <div className="bg-[#010725]">
@@ -28,6 +34,8 @@ function App() {
 <Slider />
 <Getstarted />
 <Card />
+<Footer />
+<Fot />
 </div>
    </>
   )
