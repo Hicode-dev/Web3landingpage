@@ -9,7 +9,7 @@ const Footer = () => {
 <div>
 <div className='text-white md:flex justify-between px-10 lg:mt-24  pb-10 items-center  '>
                     <h2 className='text-[1.7rem] font-bold pb-3 uppercase'>Download Our App</h2>
-                    <button className=' w-fit rounded-full text-white md:px-10 py-3 md:text-[0.3rem] text-[0.8rem]  f'>
+                    <button className=' w-fit rounded-full text-white md:px-10 py-3 md:text-[0.9rem] text-[0.8rem]  f'>
                     Lorem ipsum dolor sit amet, consectetur adipiscing <br /> elit. Sit non neque orci amet, amet .
                     </button>
 

@@ -11,8 +11,8 @@ const Card = () => {
      <div className='pt-20 px-9'>
            <div className='text-white py-10 block justify-between items-center md:flex '>
                     <h2 className='md:text-[1.7rem] text-[1.5rem] font-bold pb-3 uppercase'>Browse our latest news</h2>
-                    <button className=' w-fit rounded-full text-white md:px-10 py-3 text-[0.9rem] f'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Sit non neque orci amet, amet .
+                    <button className=' w-fit rounded-full text-white md:px-10 py-3 text-[0.9rem] md:text-[0.9rem] f'>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing <br />  elit. Sit non neque orci amet, amet .
                     </button>
 
                 </div>
