@@ -12,8 +12,8 @@ const Body = () => {
 
                     <div>
                      <div className='' data-aos="fade-right">
-                     <p className='text-[2rem] lg:text-[3rem] md:text-3xl font-bold pb-3 uppercase mx-auto text-white'>Buy, trade, and hold </p>
-                        <p className='text-2xl lg:text-[3rem]  md:text-3xl font-bold pb-3 uppercase mx-auto text-white'>350+ cryptocurrencies</p>
+                     <p className='text-[1.6rem] lg:text-[3rem] md:text-3xl font-bold pb-3 uppercase mx-auto text-white'>Buy, trade, and hold </p>
+                        <p className='text-[1.6rem] lg:text-[3rem]  md:text-3xl font-bold pb-3 uppercase mx-auto text-white'>350+ cryptocurrencies</p>
                         <p className='text-white mt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Feugiat <br /> nulla suspendisse tortor aenean dis placerat.</p>
                      </div>
                         <button className='py-3 px-10 mt-8 mx-16 md:mx-0 bg-blue-600 text-white rounded-md  '>Get started</button>

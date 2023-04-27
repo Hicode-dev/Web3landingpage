@@ -8,7 +8,7 @@ export default defineConfig({
     rollupOptions: {
       external: ['react','react-dom','react-icons'] // Add 'react-icons' to the external array
     },
-
+    outDir: 'dist',
   },
 
 })
