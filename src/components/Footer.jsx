@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
-import phone1 from '../../dist/iPhones (1).png'
+import phone1 from '../../public/iPhones (1).png'
 
 
 

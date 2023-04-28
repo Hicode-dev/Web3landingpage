@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import phone3 from '../../dist/div (1).png'
-import phone4 from '../../dist/60e4a1e7380756935be7fc46_image-blog-6-crypto-template-p-800.jpeg.png'
+import phone3 from '../../public/div (1).png'
+import phone4 from '../../public/60e4a1e7380756935be7fc46_image-blog-6-crypto-template-p-800.jpeg.png'
 
 
 const Card = () => {

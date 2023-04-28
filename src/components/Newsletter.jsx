@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 // import ok from '../../public/okay.png'
-import phone3 from '../../dist/iPhones.png'
+import phone3 from '../../public/iPhones.png'
 
 
 const Newsletter = () => {
