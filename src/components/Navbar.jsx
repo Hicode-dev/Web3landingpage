@@ -10,7 +10,7 @@ const Navbar = () => {
         }
       return (
         <main >
-        <div className='text-white flex items-center  justify-between  py-3 items-center container capitalize h-25 mx-auto px-5 sticky top-0'>
+        <div className='text-white flex items-center  justify-between  py-3  container capitalize h-25 mx-auto px-5 sticky top-0'>
             
 
           <ul className="hidden sm:flex items-center ">

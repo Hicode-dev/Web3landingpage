@@ -15,7 +15,8 @@ import Navbar from './components/Navbar'
 import Newsletter from './components/Newsletter'
 import Slider from './components/Slider'
 import AOS from 'aos'
-import 'aos/dist/aos.css';
+import 'aos/dist/aos.css'
+// import '/aos/dist/aos.css';
 function App() {
   AOS.init({
     duration: 2000, // values from 0 to 3000, with step 50ms

@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import phone2 from '../../public/Screen (replace here).png'
-import phone3 from '../../public/iPhones.png'
-import phone4 from '../../public/wallet.png'
+import phone2 from '../assets/Screen (replace here).png'
+import phone3 from '../assets/iPhones.png'
+import phone4 from '../assets/wallet.png'
 import { TbChartBar } from 'react-icons/tb'
 
 const Box2 = () => {

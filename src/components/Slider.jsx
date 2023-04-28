@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import Sllider from "react-slick";
-import phone3 from '../../public/div (1).png'
+import phone3 from '../assets/div (1).png'
 
 const Slider = () => {
     var settings = {
